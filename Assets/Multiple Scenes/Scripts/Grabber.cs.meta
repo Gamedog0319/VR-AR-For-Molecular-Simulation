@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26a07d1a13844c146890615cc36585ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sizeInputPanel: {fileID: 5098447473777417692, guid: 5d8e86c7f3bb97241bea734c66bc2713,
+      type: 3}
+  - scaleButton: {fileID: 6223417156068154948, guid: 7eef606d36074c841816f7687644f919,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
